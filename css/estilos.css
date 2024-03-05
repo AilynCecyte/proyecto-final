@@ -1,0 +1,146 @@
+body {
+    background-color: hwb(0 61% 39%);
+    color: #f6eedf;
+}
+
+#contacto {
+    background-color: hwb(0 69% 31%);
+    color: #f6eedf;
+    
+}
+
+#blog {
+    background-color: hwb(0 49% 51%);
+    color: #f6eedf;
+   
+}
+
+#menu {
+    padding: 4px;
+    font-size: 20px;
+    background-color: hwb(113 15% 82%);
+    color: #f1e6d1;
+}
+
+.imagen {
+    width: 30%;
+    border: 0px solid #daa60a;
+    float: right;
+}
+
+.imagen2 {
+    width: 10%;
+    border: 0px solid #2A2926;
+    float: center;
+
+}
+
+.imagen3 {
+    width: 80%;
+    border: 0px solid #dddddd;
+    float: center;
+}
+
+h1 {
+    padding-left: 5px;
+    font-size: 25px;
+    color: #e28111;
+    background-color: #242424;
+}
+
+.contacto {
+    padding-left: 5px;
+    font-size: 50px;
+    color: #f1e6d1;
+    background-color: #656666
+}
+
+#zona-encabezado {
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: #535353;
+}
+
+#zona-encabezado h1,
+h2 {
+    padding-left: 5px;
+    text-align: left;
+    background-color: #e0e0e0;
+    color: #313131;
+}
+
+#texto-cuerpo {
+    padding-left: 5px;
+    font-size: 20px;
+    background-color: #313131
+}
+
+#texto-contacto {
+    padding-left: 5px;
+    font-size: 30px;
+    color: #f1e6d1;
+    background-color: #aaa9a9;
+}
+
+#texto-blog {
+    padding-left: 5px;
+    font-size: 20px;
+    color: #f1e6d1;
+    background-color: #230de7;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.lista {
+    margin-right: 5px;
+    color: #07090e;
+    background-color: #098ac5;
+}
+
+#zona-imagenes {
+    padding-bottom: 4px;
+    background-color: #660b5a;
+    text-align: center;
+}
+
+img {
+    width: 30%;
+}
+
+.texto-final {
+    background-color: #d4560d;
+    color: #f5f5f5;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    float: right;
+}
+
+
+#menu a:visited {
+    color: #edf3ed;
+}
+
+.container {
+    width: 100%;
+    margin: 0 auto;
+  }
+  .section {
+    padding: 20px;
+    background-color: #f0f0f0;
+    margin-bottom: 20px;
+  }
+
+  p {
+    text-align: justify;
+  }
+
+  .imagen-izquierda {
+    float: left;
+    margin-right: 10px; 
+  }
+
+  td {
+    text-align: center;
+    padding: 10px;
+  }
+
+  
